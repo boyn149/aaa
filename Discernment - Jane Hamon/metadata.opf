@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">ffef66bd-1054-4951-971c-71751046b941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffef66bd-1054-4951-971c-71751046b941</dc:identifier>
+        <dc:title>Discernment</dc:title>
+        <dc:creator opf:file-as="Hamon, Jane" opf:role="aut">Jane Hamon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-04T17:00:00+00:00</dc:date>
+        <dc:description>With extensive expertise and personal experience, prophetic leader Jane Hamon offers advice on how to operate in greater spiritual authority and walk in wisdom as you help build God’s Kingdom on earth.</dc:description>
+        <dc:publisher>Baker Publishing Group</dc:publisher>
+        <dc:rights>© 2019 by Jane A. Hamon</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Charismatic Interest</dc:subject>
+        <dc:subject>Discernment (Christian theology)</dc:subject>
+        <dc:subject>Discernment of spirits</dc:subject>
+        <dc:subject>REL012120</dc:subject>
+        <dc:subject>REL079000</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
